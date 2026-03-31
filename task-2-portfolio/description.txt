@@ -1,0 +1,6 @@
+For this task, I chose to set up and update profiles on GitHub, LinkedIn, and HackerRank. A professional digital presence is crucial for engineering students today.
+  
+1. GitHub: I created a Profile README stating my name, branch (B.Tech [Your Branch]), and my goal to learn foundational software engineering skills. I will use GitHub over the next four years to host my coding projects and collaborate with peers.
+2. LinkedIn: I updated my Education section to show my current degree at VIT Bhopal University (Expected Graduation: 2028). I plan to use LinkedIn to connect with seniors, professors, and future internship coordinators.
+3. Kraggle: I set up a basic profile here to begin my journey. I will use it regularly.
+Building these foundational profiles early helps me establish a clean, professional digital footprint before I even start applying for jobs.
