@@ -1,0 +1,11 @@
+Email 1:
+Subject: Extension Request for Assignment 1 - [Your Name] [Reg No]
+Dear Professor [Name],
+I hope this email finds you well. I am writing to respectfully request a brief extension for Assignment 1. Due to [brief valid reason, e.g., a medical issue/technical glitch], I am slightly behind. Could I submit it by [Date]? Thank you for your time.
+Best regards, [Your Name]
+
+Email 2:
+Subject: Summer Internship Application - [Your Name]
+Dear Internship Coordinator,
+I am a first-year B.Tech student at VIT Bhopal University. I am writing to express my strong interest in the Summer Internship opportunity at [Company Name]. I am eager to contribute to your team and learn from industry professionals. Please find my resume attached.
+Sincerely, [Your Name]
