@@ -1,0 +1,8 @@
+Coding & Collaboration Platforms Reflection
+Platforms Used: HackerRank and Google Workspace (Forms/Sheets).
+What I Built/Practised:
+For the coding practice part of this task, I created an account on HackerRank and completed the introductory beginner challenge ("Solve Me First"). This helped me practice basic input/output logic and familiarize myself with the platform's coding environment and submission process.
+For the collaboration portion, I built a 5-question "Digital Literacy Awareness Quiz" using Google Forms, which included both multiple-choice and short-answer formats. I also linked it to a Google Sheet to automatically collect responses.
+How These Tools Help Academically:
+Familiarity with HackerRank is essential for my computer science journey, as it is the industry standard for practicing algorithms and preparing for technical placement interviews. Cloud collaboration tools like Google Forms and Sheets will be incredibly useful throughout my degree. 
+They will allow me to easily collect survey data for research papers, organize team project workloads, and coordinate tasks with my peers without needing to be in the same physical room.
